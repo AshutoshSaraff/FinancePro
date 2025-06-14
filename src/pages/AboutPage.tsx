@@ -111,7 +111,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-2xl font-bold mb-4 text-finance-navy">Our Story</h2>
               <p className="text-gray-700 mb-4">
-                Founded in 2010, FinancePro has been at the forefront of financial innovation in India. 
+                Founded in 2025, FinancePro has been at the forefront of financial innovation in India. 
                 We started with a simple vision: to make financial services accessible, transparent, and 
                 hassle-free for every Indian citizen.
               </p>
