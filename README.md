@@ -1,7 +1,7 @@
 # 💰 FinancePro – Loan Approval Management System
 
 
-🚀 **Live Demo**: [Click here to visit FinancePro](https://ashutoshsaraf.github.io/FinancePro/)
+🚀 **Live Demo**: [Click here to visit FinancePro](https://ashutoshsaraff.github.io/FinancePro/)
 
 FinancePro is a modern, responsive web platform that simplifies and streamlines the loan approval process for users, agents, and administrators. Built with **React**, **TypeScript**, and **Tailwind CSS**, it supports a fully functional frontend workflow with multi-level approvals and user role handling.
 
